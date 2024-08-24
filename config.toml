@@ -1,0 +1,17 @@
+baseURL = 'https://MightyTAL.github.io/'
+languageCode = 'en-us'
+title = 'My Personal Website'
+theme = 'PaperMod'
+
+[params]
+  author = "Your Name"
+  description = "A brief description about you."
+  images = ["images/profile.jpg"] # Add your profile picture
+  ShowReadingTime = true
+  ShowShareButtons = true
+
+# Social links
+  github = "https://github.com/yourusername"
+  linkedin = "https://www.linkedin.com/in/yourprofile"
+  twitter = "https://twitter.com/yourusername"
+  email = "mailto:your.email@example.com"
